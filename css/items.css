@@ -1,0 +1,46 @@
+.wrapper{
+	background: url(../img/bg/bg2.jpg) no-repeat center center fixed;
+	filter: grayscale(20%);
+	text-align: center;
+}
+
+.header{
+	height: 100%;
+}
+
+h1{
+	font-size: 70px;
+	line-height: 1;
+}
+
+p{
+	color: #090c2c;
+	padding: 20px 0;
+	text-align: center;
+	font-size: 15px;
+	line-height: 1;
+	background-color: rgba(255,255,255,0.8);
+}
+
+.goods_wrapper{
+	display: flex;
+	flex-wrap: wrap;
+	margin-bottom: 20px;
+}
+
+.good {
+	display: flex;
+	flex-direction: column;
+	width: 30%;
+	margin: 5px;
+}
+
+.good_img{
+	width: 100%;
+	height: auto;
+}
+
+.good_img:hover{
+	filter: grayscale(100%);
+	transition: filter .2s ease-in-out;
+}

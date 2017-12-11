@@ -1,0 +1,61 @@
+a,
+a:hover,
+a:focus,
+a:active{
+	text-decoration: none;
+	color: #fff;
+}
+
+body {
+	background: url(../img/bg/bg0.jpg) no-repeat center center;
+	background-size: cover;
+	height: 100vh;
+}
+
+h1,
+h2,
+p{
+	color: #fff;
+}
+
+h1 {
+	font: 70px 'Open Sans', Arial, sans-serif;
+	line-height: 1;
+	text-transform: uppercase;
+}
+
+h2 {
+	font: 30px 'Open Sans', Arial, sans-serif;
+	line-height: 1;
+	text-transform: uppercase;
+}
+
+p{
+	font: 30px 'Raleway', Arial, sans-serif;
+	line-height: 40px;
+}
+
+.heading {
+	font: 18px 'Raleway', Arial, sans-serif;
+	text-transform: uppercase;
+	font-weight: bold;	
+	color: #fff;
+}
+
+.for_footer {
+	padding: 10px 0;
+	margin: 0;
+	font: 15px 'Raleway', Arial, sans-serif;
+	background: none;
+	color: #77787b;
+}
+
+.center{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+}
+
+.visible{
+	display: block;
+}
