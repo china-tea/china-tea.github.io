@@ -18,7 +18,6 @@ p,
 .features{
 	display: flex;
 	justify-content: flex-end;
-	align-items: flex-start;
 }
 
 .feature{
@@ -46,7 +45,6 @@ h1{
 p{
 	box-sizing: border-box;
 	padding: 20px;
-	text-align: center;
 	font-size: 15px;
 	line-height: 1;	
 	background-color: rgba(255,255,255,0.8);

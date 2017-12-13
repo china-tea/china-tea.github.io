@@ -31,12 +31,12 @@ h2 {
 }
 
 p{
-	font: 30px 'Raleway', Arial, sans-serif;
+	font: 30px 'Oswald', Arial, sans-serif;
 	line-height: 40px;
 }
 
 .heading {
-	font: 18px 'Raleway', Arial, sans-serif;
+	font: 18px 'Oswald', Arial, sans-serif;
 	text-transform: uppercase;
 	font-weight: bold;	
 	color: #fff;
@@ -45,17 +45,7 @@ p{
 .for_footer {
 	padding: 10px 0;
 	margin: 0;
-	font: 15px 'Raleway', Arial, sans-serif;
+	font: 15px 'Oswald', Arial, sans-serif;
 	background: none;
 	color: #77787b;
-}
-
-.center{
-	position: absolute;
-	left: 50%;
-	top: 50%;
-}
-
-.visible{
-	display: block;
 }
